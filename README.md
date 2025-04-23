@@ -2,7 +2,7 @@
 
 This repository contains MATLAB scripts for training deep learning models, performing cross-correlation analysis, and predicting Ground Reaction Force (GRF) from inertial sensor data (accelerometers). The models are designed for biomechanical applications, specifically gait analysis.
 
-## 📂 Contents
+Contents
 
 - `Train_BiLSTM.m`: Script for training a Bi-LSTM neural network.
 - `Train_TCN.m`: Script for training a Temporal Convolutional Network (TCN).
